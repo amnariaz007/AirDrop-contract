@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BSC",
+    "tokenAddress": "0x75A85148cCd19Db0e70Ef0099E38B224ee150D8b",
+    "url": "https://bscscan.com/tx/0x9c765cb7708a58b000f1f3b2f01886511e16c7f56ec0b2ea32de5f7f863e651f"
+  },
+  {
+    "name": "Polygon",
+    "tokenAddress": "0x399bEf7EC71D5480758ED3d29d0Ee13E97534844",
+    "url": "https://polygonscan.com/tx/0xac667a2b641b2d3ccca44a9643a7b1cf31c8767e1d1bba6f5c94631a41562c7c"
+  },
+  {
+    "name": "ETHERIUM",
+    "tokenAddress": "0xc49f30454f9dbBEA96A6B1dEf23A955aA6D331F1",
+    "url": "https://etherscan.io/tx/0xc154a0e77c1aaa381ec0b28322eedb87f2326f0a9787ca8dc856b7fb9cb82cdb"
+  },
+  {
+    "name": "AVALANCHE",
+    "tokenAddress": "0x399bEf7EC71D5480758ED3d29d0Ee13E97534844",
+    "url": "https://snowtrace.io/address/0x399bef7ec71d5480758ed3d29d0ee13e97534844#code"
+  }
+]
